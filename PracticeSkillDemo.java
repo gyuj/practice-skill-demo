@@ -1,3 +1,7 @@
 public class PracticeSkillDemo {
-  System.out.print("Is this working?");
+  
+  public static int add(int n, int m) {
+    return n + m;
+  }
 }
+
